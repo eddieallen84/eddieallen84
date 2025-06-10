@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/QjxCW43v/avatar.png" alt="avatar" width="100" align="top-right"/>
+<img src="https://i.ibb.co/fVbWXq6y/avatar-curriculo.png" alt="avatar" width="100" align="top-right"/>
 
 # Eddie Allen
 
