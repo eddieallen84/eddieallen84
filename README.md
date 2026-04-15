@@ -2,9 +2,32 @@
 
 # Eddie Allen
 
-<p>Analista de TI com vivência em tecnologia e já utilizo computadores desde quando ainda existia o windows 95. Sempre fui fascinado pelas possibilidades que a tecnologia pode nos proporcionar.</p>
-<p>Tenho conhecimento em manutenção de computadores, instalação e configuração de sistemas operacionais Windows e Linux; Experiência em rede de computadores, configuração de câmeras de segurança; suporte à usuários, análise de dados com Excel e Power BI; gerenciamento de Windows server e Active Directory.</p>
-<p>Atualmente estou me especializando na linguagem Python e em desenvolvimento Back-End | Full-Stack</p>
+<p>
+  <strong>Analista de Sistemas</strong> com atuação focada em <strong>Administração de Banco de Dados Oracle</strong> na <strong>SEMA-MT</strong>.
+</p>
+
+<p>
+  Minha trajetória técnica começou no suporte e infraestrutura, onde aprendi a resolver problemas de hardware, redes e sistemas operacionais "no chão de fábrica". Essa base me dá segurança hoje para atuar como <strong>DBA</strong>, onde preciso acessar servidores Linux, analisar logs e garantir que o banco esteja rodando com integridade.
+</p>
+
+<p>
+  Além da parte técnica, tenho forte experiência em sala de aula, tendo ministrado aulas para os cursos de <i>Desenvolvimento de Sistemas</i> e <i>Infraestrutura de Redes</i>.
+</p>
+
+<h3>🛠️ Foco Atual:</h3>
+
+<ul>
+  <li><strong>Banco de Dados:</strong> Oracle, PL/SQL, DBeaver, Updates e Manutenção.</li>
+  <li><strong>Infraestrutura:</strong> Comandos Linux, Acesso remoto (MobaXterm).</li>
+  <li><strong>Dev:</strong> Full Stack (React / Node / Django).</li>
+</ul>
+
+<hr>
+
+<p align="center">
+  <a href="https://github.com/eddieallen84?tab=repositories">Ver meus projetos</a> • 
+  <a href="https://www.linkedin.com/in/eddieallen84/">LinkedIn</a>
+</p>
 
 
 ## Conecte-se Comigo!
