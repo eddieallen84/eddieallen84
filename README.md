@@ -1,8 +1,3 @@
-
-<img src="https://i.ibb.co/fVbWXq6y/avatar-curriculo.png" alt="avatar" width="100" align="right"/>
-<br>
-<br>
-
 # Eddie Allen
 
 <p>Analista de Sistemas com atuação focada em administração de Banco de Dados Oracle na SEMA-MT.
