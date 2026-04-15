@@ -6,7 +6,6 @@
 <strong>Analista de Sistemas na SEMA-MT</strong>, especializado em <strong>Oracle DBA</strong>. Minha base em infraestrutura e suporte me deu a "casca" necessária para gerenciar servidores Linux e bancos de dados complexos com segurança. Também compartilho conhecimento através da docência em cursos de tecnologia.
 </p>
 
-<hr />
 
 <h3>Skills</h3>
 
@@ -15,8 +14,6 @@
   <strong>Ops:</strong> Linux CLI, MobaXterm, Redes.<br />
   <strong>Dev:</strong> JavaScript (React/Node), Python (Django).
 </p>
-
-<hr>
 
 
 
