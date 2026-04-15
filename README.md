@@ -2,9 +2,17 @@
 
 # Eddie Allen
 
-<p>
-<strong>Analista de Sistemas na SEMA-MT</strong>, especializado em <strong>Oracle DBA</strong>. Minha base em infraestrutura e suporte me deu a "casca" necessária para gerenciar servidores Linux e bancos de dados complexos com segurança. Também compartilho conhecimento através da docência em cursos de tecnologia.
+<p>Analista de Sistemas com atuação focada em administração de Banco de Dados Oracle na SEMA-MT.
+Minha trajetória técnica começou no suporte e infraestrutura, onde aprendi a resolver problemas de hardware, redes e sistemas operacionais 'no chão de fábrica'. Essa base me dá segurança hoje para atuar como DBA, onde preciso acessar servidores Linux, analisar logs e garantir que o banco esteja rodando. Além da parte técnica, tenho forte experiência em sala de aula, onde ministrei aulas paras os cursos de desenvolvimento de sistemas e infraestrutura de redes.
 </p>
+
+
+## Foco atual:
+<ul>
+<li>Banco de Dados: Oracle, PL/SQL, DBeaver, Updates e Manutenção.
+<li>Infraestrutura: Comandos Linux, Acesso remoto (MobaXterm).
+<li>Dev: Full Stack (React/Node/Django)
+</ul>
 
 
 
