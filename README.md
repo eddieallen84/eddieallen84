@@ -3,31 +3,22 @@
 # Eddie Allen
 
 <p>
-  <strong>Analista de Sistemas</strong> com atuação focada em <strong>Administração de Banco de Dados Oracle</strong> na <strong>SEMA-MT</strong>.
+  <strong>Analista de Sistemas na SEMA-MT</strong>, especializado em <strong>Oracle DBA</strong>. Minha base em infraestrutura e suporte me deu a "casca" necessária para gerenciar servidores Linux e bancos de dados complexos com segurança. Também compartilho conhecimento através da docência em cursos de tecnologia.
 </p>
+
+<hr />
+
+<h2>🛠️ Skills</h2>
 
 <p>
-  Minha trajetória técnica começou no suporte e infraestrutura, onde aprendi a resolver problemas de hardware, redes e sistemas operacionais "no chão de fábrica". Essa base me dá segurança hoje para atuar como <strong>DBA</strong>, onde preciso acessar servidores Linux, analisar logs e garantir que o banco esteja rodando com integridade.
+  <strong>🗄️ Database:</strong> Oracle (PL/SQL), DBeaver, Manutenção de Dados.<br />
+  <strong>🐧 Ops:</strong> Linux CLI, MobaXterm, Redes.<br />
+  <strong>💻 Dev:</strong> JavaScript (React/Node), Python (Django).
 </p>
-
-<p>
-  Além da parte técnica, tenho forte experiência em sala de aula, tendo ministrado aulas para os cursos de <i>Desenvolvimento de Sistemas</i> e <i>Infraestrutura de Redes</i>.
-</p>
-
-<h3>🛠️ Foco Atual:</h3>
-
-<ul>
-  <li><strong>Banco de Dados:</strong> Oracle, PL/SQL, DBeaver, Updates e Manutenção.</li>
-  <li><strong>Infraestrutura:</strong> Comandos Linux, Acesso remoto (MobaXterm).</li>
-  <li><strong>Dev:</strong> Full Stack (React / Node / Django).</li>
-</ul>
 
 <hr>
 
-<p align="center">
-  <a href="https://github.com/eddieallen84?tab=repositories">Ver meus projetos</a> • 
-  <a href="https://www.linkedin.com/in/eddieallen84/">LinkedIn</a>
-</p>
+
 
 
 ## Conecte-se Comigo!
