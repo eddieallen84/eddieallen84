@@ -23,9 +23,19 @@
 [![Github](https://img.shields.io/badge/Github-357?style=for-the-badge&logo=Github&logoColor=fffff)](https://www.github.com/eddieallen84)
 
 ## Habilidades
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/css-000?style=for-the-badge&logo=CSS3)
-![Python](https://img.shields.io/badge/PYTHON-000?style=for-the-badge&logo=python&logoColor=)
-![JS](https://img.shields.io/badge/JAVASCRIPT-000?style=for-the-badge&logo=Javascript&)
+
+Aqui está o código atualizado. Adicionei o Oracle e o Django, corrigi o ícone do CSS3 e mantive o estilo visual de "badges" que você está usando.
+
+Se quiser manter o padrão de fundo preto (000) para todos, use este código:
+
+HTML
+## Habilidades
+
+![Oracle](https://img.shields.io/badge/Oracle-000?style=for-the-badge&logo=oracle&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=white)
 
 
