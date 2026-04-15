@@ -7,16 +7,6 @@
 </p>
 
 
-<h3>Skills</h3>
-
-<p>
-  <strong>Database:</strong> Oracle (PL/SQL), DBeaver, Manutenção de Dados.<br />
-  <strong>Ops:</strong> Linux CLI, MobaXterm, Redes.<br />
-  <strong>Dev:</strong> JavaScript (React/Node), Python (Django).
-</p>
-
-
-
 
 ## Conecte-se Comigo!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-357?style=for-the-badge&logo=linkedin&logoColor=ffff)](https://www.linkedin.com/in/eddieallen84)
@@ -30,5 +20,5 @@
 ![Django](https://img.shields.io/badge/DJANGO-000?style=for-the-badge&logo=django)
 ![JS](https://img.shields.io/badge/JAVASCRIPT-000?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css&logoColor=663399)
 
