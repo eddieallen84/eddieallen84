@@ -31,11 +31,10 @@ Se quiser manter o padrão de fundo preto (000) para todos, use este código:
 HTML
 ## Habilidades
 
-![Oracle](https://img.shields.io/badge/Oracle-000?style=for-the-badge&logo=oracle&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/css-000?style=for-the-badge&logo=css3)
+![Python](https://img.shields.io/badge/PYTHON-000?style=for-the-badge&logo=python)
+![JS](https://img.shields.io/badge/JAVASCRIPT-000?style=for-the-badge&logo=Javascript)
+![Oracle](https://img.shields.io/badge/Oracle-000?style=for-the-badge&logo=oracle)
 
 
